@@ -1,3 +1,7 @@
+## Demo
+
+[https://annakowalczuk.github.io/React-stopwatch-19.7/](https://annakowalczuk.github.io/React-stopwatch-19.7/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
